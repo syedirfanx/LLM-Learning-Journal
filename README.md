@@ -20,7 +20,7 @@ Welcome to my **LLM-Learning-Journal**, a personal space where I document everyt
 
 ## How to Use
 
-You can browse the folders to find detailed documentation and runnable code. Feel free to fork, clone, or contribute!
+You can browse the files to find detailed documentation and runnable code. Feel free to fork, clone, or contribute!
 
 ---
 
