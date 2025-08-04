@@ -31,9 +31,10 @@ If you have questions, suggestions, or want to collaborate, reach out to me via 
 ---
 
 ## Learning Resources
-This project is based on concepts learned from (to be expanded as I progress):
+_(to be expanded as I progress)_
 
 - [Buildings LLMs from scratch by Visuara](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
+- [tiktoken Documentation](https://github.com/openai/tiktoken)
 
 ---
 
