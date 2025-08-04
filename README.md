@@ -30,9 +30,10 @@ If you have questions, suggestions, or want to collaborate, reach out to me via 
 
 ---
 
-## References
+## Learning Resources
+This project is based on concepts learned from (to be expanded as I progress):
 
-_Will update soon_
+- [Buildings LLMs from scratch by Visuara](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
 
 ---
 
