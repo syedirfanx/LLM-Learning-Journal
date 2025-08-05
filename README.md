@@ -1,4 +1,4 @@
-# LLM-Learning-Journal
+# LLM Learning Journal
 
 Experiments, notes, and projects from my exploration of Large Language Models — prompt engineering, fine-tuning, and beyond.
 
@@ -33,6 +33,7 @@ If you have questions, suggestions, or want to collaborate, reach out to me via 
 ## Learning Resources
 _(to be expanded as I progress)_
 
+- [Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://youtu.be/9vM4p9NN0Ts)
 - [Buildings LLMs from scratch by Visuara](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
 - [tiktoken Documentation](https://github.com/openai/tiktoken)
 
