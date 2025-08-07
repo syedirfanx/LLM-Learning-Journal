@@ -14,7 +14,7 @@ Welcome to my **LLM-Learning-Journal**, a personal space where I document everyt
 
 - Code and notebooks for model tests and trials  
 - Written explanations, summaries, and insights  
-- Larger projects and demos involving LLMs  
+- Projects and demos involving LLMs  
 
 ---
 
