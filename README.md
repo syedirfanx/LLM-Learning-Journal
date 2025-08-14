@@ -36,6 +36,7 @@ _(to be expanded as I progress)_
 - [Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://youtu.be/9vM4p9NN0Ts)
 - [Buildings LLMs from scratch by Visuara](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
 - [tiktoken Documentation](https://github.com/openai/tiktoken)
+- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
 
 ---
 
